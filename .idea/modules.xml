@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-ObjectsTheory/01-ObjectsTheory.iml" filepath="$PROJECT_DIR$/01-ObjectsTheory/01-ObjectsTheory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Objects/02-Objects.iml" filepath="$PROJECT_DIR$/02-Objects/02-Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Operator/03-Operator.iml" filepath="$PROJECT_DIR$/03-Operator/03-Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-ControlExecutionProcess/04-ControlExecutionProcess.iml" filepath="$PROJECT_DIR$/04-ControlExecutionProcess/04-ControlExecutionProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-InitiaClear/05-InitiaClear.iml" filepath="$PROJECT_DIR$/05-InitiaClear/05-InitiaClear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-AccessRights/06-AccessRights.iml" filepath="$PROJECT_DIR$/06-AccessRights/06-AccessRights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-ReuseClass/07-ReuseClass.iml" filepath="$PROJECT_DIR$/07-ReuseClass/07-ReuseClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Polymorphic/08-Polymorphic.iml" filepath="$PROJECT_DIR$/08-Polymorphic/08-Polymorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Interfaces/09-Interfaces.iml" filepath="$PROJECT_DIR$/09-Interfaces/09-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-InnerClass/10-InnerClass.iml" filepath="$PROJECT_DIR$/10-InnerClass/10-InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Container-1/11-Container-1.iml" filepath="$PROJECT_DIR$/11-Container-1/11-Container-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Exception/12-Exception.iml" filepath="$PROJECT_DIR$/12-Exception/12-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-String/13-String.iml" filepath="$PROJECT_DIR$/13-String/13-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-TypeInformation/14-TypeInformation.iml" filepath="$PROJECT_DIR$/14-TypeInformation/14-TypeInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-GenericParadigm/15-GenericParadigm.iml" filepath="$PROJECT_DIR$/15-GenericParadigm/15-GenericParadigm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-Array/16-Array.iml" filepath="$PROJECT_DIR$/16-Array/16-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-Container-2/17-Container-2.iml" filepath="$PROJECT_DIR$/17-Container-2/17-Container-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-IO/18-IO.iml" filepath="$PROJECT_DIR$/18-IO/18-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-Enumeration/19-Enumeration.iml" filepath="$PROJECT_DIR$/19-Enumeration/19-Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-Annotation/20-Annotation.iml" filepath="$PROJECT_DIR$/20-Annotation/20-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-Concurrency/21-Concurrency.iml" filepath="$PROJECT_DIR$/21-Concurrency/21-Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-GUI/22-GUI.iml" filepath="$PROJECT_DIR$/22-GUI/22-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thinking-in-Java-Projects.iml" filepath="$PROJECT_DIR$/Thinking-in-Java-Projects.iml" />
+    </modules>
+  </component>
+</project>
