@@ -13,12 +13,7 @@ import java.util.regex.Pattern;
 public final class Directory {
     public static File[] local(File dir, final String regex){
         return dir.listFiles(new FilenameFilter() {
-            Pattern pattern;
-            // 匿名内部类是没有构造器的，如果想实现相同的功能，可以使用实例初始化
-            {
-                // 此处需要用到regex参数，所以只能由外界传入
-                pattern = Pattern.compile(regex);
-            }
+            Pattern pattern = Pattern.compile(regex);
             @Override
             public boolean accept(File dir, String name) {
                 return pattern.matcher(new File(name).getName()).matches();
@@ -45,5 +40,9 @@ public final class Directory {
         public String toString(){
             return "dirs: " ;
         }
+    }
+
+    public static TreeInfo walk(String start, String regex){
+        return null;
     }
 }
