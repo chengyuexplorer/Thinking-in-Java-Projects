@@ -3,7 +3,9 @@ package com.yc.annotation2011;
 import java.util.List;
 
 /**
- * Created by yucheng on 2018/9/6.
+ *
+ * @author yucheng
+ * @date 2018/9/6
  */
 public class PasswordUtils {
     @UseCase(id = 47, description = "Passeords must contain at least one numeric")
